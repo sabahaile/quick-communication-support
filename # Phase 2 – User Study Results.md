@@ -26,19 +26,19 @@ Participants rated the system across usability, usefulness, and emotional comfor
 
 
 
-| Dimension                  | Mean Score | Interpretation |
+| Dimension                     | Mean Score              | Interpretation |
 
-|---------------------------|------------|----------------|
+|---------------------------   |------------          |----------------|
 
-| Ease of Use               | 4.4        | Very high      |
+| Ease of Use                  | 4.4                  | Very high      |
 
-| Speed of Phrase Access    | 4.3        | Very high      |
+| Speed of Phrase Access       | 4.3                   | Very high      |
 
-| Perceived Usefulness      | 4.2        | High           |
+| Perceived Usefulness         | 4.2                  | High           |
 
-| Emotional Comfort         | 4.1        | High           |
+| Emotional Comfort            | 4.1                  | High           |
 
-| Willingness to Reuse      | 4.3        | Very high      |
+| Willingness to Reuse         | 4.3                  | Very high      |
 
 
 
@@ -93,6 +93,7 @@ Participants perceived the tool as emotionally supportive rather than intrusive,
 
 
 These findings justify further refinement and extended evaluation.
+
 
 
 
