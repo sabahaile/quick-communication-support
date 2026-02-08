@@ -19,7 +19,7 @@ import streamlit as st
 Scope = Literal["activities", "places"]
 
 # -----------------------------
-# DATA (edit freely)
+# DATA 
 # -----------------------------
 GENERIC_PHRASES = [
     "Can I have a moment, please?",
