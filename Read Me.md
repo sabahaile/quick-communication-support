@@ -99,6 +99,7 @@ Markdown-based documentation
 The system runs locally and does not rely on external services or data storage.
 
 #### Repository Structure
+## Repository Structure
 .
 ├── app.py
 │   └─ Streamlit-based assistive communication prototype (Phase 1)
@@ -114,6 +115,7 @@ The system runs locally and does not rely on external services or data storage.
 │   └─ Phase 2: Summary and interpretation of study findings
 └── phase3_future_work.md
     └─ Planned extensions and future research directions
+
 
 
 #### Research Contribution
