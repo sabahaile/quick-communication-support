@@ -98,18 +98,6 @@ Markdown-based documentation
 
 The system runs locally and does not rely on external services or data storage.
 
-#### Repository Structure
-## Repository Structure
-.
-├── app.py                  # Streamlit demo application
-├── requirements.txt        # Python dependencies
-├── docs/                   # Phase 2 report, research pitch, future work
-├── Phase 2 – User Study Results.md     # Summary and interpretation of study findings
-├── phase2_user_study.md                #  User study methodology and survey design
-├── .gitignore
-└── README.md
-
-
 #### Research Contribution
 
 This project contributes:
