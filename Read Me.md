@@ -100,15 +100,20 @@ The system runs locally and does not rely on external services or data storage.
 
 #### Repository Structure
 .
-├── app.py                     # Streamlit-based assistive communication prototype (Phase 1)
-├── requirements.txt           # Python dependencies
-├── .gitignore                 # Git ignore rules
-├── Read Me.md                 # Main project README (this file)
-│
-├── phase2_user_study.md       # Phase 2: User study methodology and survey design
+├── app.py
+│   └─ Streamlit-based assistive communication prototype (Phase 1)
+├── requirements.txt
+│   └─ Python dependencies
+├── .gitignore
+│   └─ Git ignore rules
+├── Read Me.md
+│   └─ Main project README (this file)
+├── phase2_user_study.md
+│   └─ Phase 2: User study methodology and survey design
 ├── Phase 2 – User Study Results.md
-│                               # Phase 2: Summary and interpretation of study findings
-├── phase3_future_work.md     # Planned extensions and future research directions
+│   └─ Phase 2: Summary and interpretation of study findings
+└── phase3_future_work.md
+    └─ Planned extensions and future research directions
 
 
 #### Research Contribution
