@@ -1,8 +1,8 @@
 ## Quick Communication Support
 
-Phase 1–2: Assistive Communication Prototype and User Study
+#### Phase 1–2: Assistive Communication Prototype and User Study
 
-Overview
+#### Overview
 
 This repository presents Quick Communication Support, an assistive communication system designed to support people who experience situational or temporary speech difficulty in academic and social settings.
 
@@ -10,7 +10,7 @@ The project investigates how lightweight, non-intrusive digital tools can help u
 
 The work is structured as a two-phase Human–Computer Interaction (HCI) study, covering both prototype development and user evaluation.
 
-Project Motivation
+#### Project Motivation
 
 In academic environments such as seminars, supervision meetings, and group discussions, communication breakdowns can occur even among otherwise fluent speakers. These breakdowns are often:
 
@@ -24,12 +24,12 @@ Most augmentative and alternative communication (AAC) systems are designed for l
 
 This project explores how minimalist interface design and pre-structured linguistic support can reduce communicative friction in such contexts.
 
-Phase 1: Assistive Communication Prototype
+#### Phase 1: Assistive Communication Prototype
 
-Objective:
+#### Objective:
 To design and implement a functional proof-of-concept that demonstrates how assistive communication can be supported through simple, fast, and cognitively lightweight interaction.
 
-Key Features:
+#### Key Features:
 
 Streamlit-based interactive interface
 
@@ -43,18 +43,18 @@ Local execution with no data collection
 
 The prototype emphasizes speed, clarity, and accessibility rather than personalization or automation.
 
-Phase 2: User Study and Evaluation
+#### Phase 2: User Study and Evaluation
 
-Objective:
+#### Objective:
 To evaluate the perceived usefulness, clarity, and usability of the prototype through a structured user study.
 
-Participants:
+#### Participants:
 
 Erasmus and international students at UPCT
 
 Academic-context users familiar with high-pressure communication settings
 
-Methodology:
+#### Methodology:
 
 Short guided demo of the prototype
 
@@ -62,7 +62,7 @@ Survey-based evaluation using 5-point Likert-scale questions
 
 Qualitative feedback via open-ended responses
 
-Evaluation Focus:
+#### Evaluation Focus:
 
 Ease of use
 
@@ -74,7 +74,7 @@ Likelihood of real-world use
 
 All study materials (consent text, survey questions, and study protocol) are documented in this repository.
 
-Results Summary
+#### Results Summary
 
 Overall feedback indicated that:
 
@@ -88,7 +88,7 @@ The tool was seen as particularly useful in academic and formal settings
 
 The results informed minor refinements and validated the feasibility of the approach for further exploration.
 
-Technology Stack
+#### Technology Stack
 
 Python
 
@@ -98,7 +98,7 @@ Markdown-based documentation
 
 The system runs locally and does not rely on external services or data storage.
 
-Repository Structure
+#### Repository Structure
 .
 ├── app.py                  # Streamlit demo application
 ├── requirements.txt        # Python dependencies
@@ -108,7 +108,7 @@ Repository Structure
 ├── .gitignore
 └── README.md
 
-Research Contribution
+#### Research Contribution
 
 This project contributes:
 
